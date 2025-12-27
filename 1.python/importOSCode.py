@@ -7,6 +7,4 @@ directory_path = "/"  # change this to the path you want
 contents = os.listdir(directory_path)
 
 # Print each item
-print(f"Contents of '{directory_path}':")
-for item in contents:
-    print(item)
+print(contents)
