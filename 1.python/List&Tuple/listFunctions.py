@@ -1,7 +1,7 @@
 values = [5, 4, 6, 1, 7, 3, 8, 9]
 
 print(values[0]) # 5 
-print(values[1]) #4
+print(values[1])#4
 
 #slicing the list same as string
 print(values[2:4]) #[6,1]
